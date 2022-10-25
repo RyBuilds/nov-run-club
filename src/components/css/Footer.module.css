@@ -1,0 +1,21 @@
+/* footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  max-width: 1200px;
+  margin: 32px auto;
+  display: flex;
+} */
+
+footer {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  /* padding: 0 32px; */
+  height: 96px;
+  /* font-family: inherit; */
+  max-width: 1200px;
+  margin: 300px auto 32px;
+  padding: 0 32px;
+  bottom: 0;
+}
